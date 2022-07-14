@@ -15,7 +15,7 @@ This game was developed using Python module Pygame. In this game you perform as 
 ### Step 1
      pip install -r requirements.txt
 ### Step 2
-     python AbdullaAttacks.py
+     python AbdullaAttacks!!!.py
   
 
 
