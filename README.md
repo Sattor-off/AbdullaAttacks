@@ -1,6 +1,6 @@
-# SimpleDjangoPortfolio
+# AbdullaAttacks
 
-This is a Simple Python Django Portolio.The portfolio is Dynamic so use /admin to login into Django admin panel to change you personal info.
+This game was developed using Python module Pygame. In this game you perform as a farmer who throws hoes against enemies.
 
 <h3> 
      
