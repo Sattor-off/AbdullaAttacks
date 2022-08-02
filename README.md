@@ -11,7 +11,8 @@ This game was developed using Python module Pygame. In this game you perform as 
 </div>
 
 
-## Run these Commads
+
+## You can work with files of this game by doing below steps:
 ### Step 1
      pip install -r requirements.txt
 ### Step 2
