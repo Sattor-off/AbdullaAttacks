@@ -12,11 +12,13 @@ This game was developed using Python module Pygame. In this game you perform as 
 
 
 
-## You can work with files of this game by doing below steps:
+## Initial steps for working with 'AbdullaAttacks' game files are described below:
 ### Step 1
      pip install -r requirements.txt
 ### Step 2
      python AbdullaAttacks!!!.py
+     
+It is also possible to download executable file from relase page in oreder to play the game.
   
 
 
