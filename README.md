@@ -18,7 +18,7 @@ This game was developed using Python module Pygame. In this game you perform as 
 ### Step 2
      python AbdullaAttacks!!!.py
      
-It is also possible to download an executable file from relase page in order to play the game.
+It is also possible to download an executable file from relase page or download AbdullaAttacks(executable).rar file in order to play the game.
   
 
 
